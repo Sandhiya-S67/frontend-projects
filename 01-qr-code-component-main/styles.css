@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Plus Jakarta Sans', 'Inter', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.qr-scan{
+    width: 239px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(108, 108, 108, 0.19);
+}
+
+.qr-image{
+    margin-top: 9.5px;
+    margin-left: 9.5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.qr-scan p{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.heading{
+    font-size: 1.0rem;
+    color: hsl(218, 44%, 22%);
+}
+
+.text{
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: hsl(216, 15%, 48%);
+}
