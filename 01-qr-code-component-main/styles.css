@@ -10,7 +10,7 @@ body{
 
 .qr-scan{
     width: 239px;
-    height: 400px;
+    height: 600px;
     background-color: white;
     border-radius: 10px;
     margin: 0 auto;
@@ -41,3 +41,4 @@ body{
     line-height: 1.5;
     color: hsl(216, 15%, 48%);
 }
+
